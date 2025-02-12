@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    color: aliceblue;
+    text-align: center;
+    
+}
+#m{
+    margin: 100px;
+    
+    
+}
+p{
+    color: antiquewhite;
+    text-align: center;
+}
+img{
+    width: 100%;
+    border: 10px solid white;
+}
